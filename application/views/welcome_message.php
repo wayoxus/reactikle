@@ -3,8 +3,10 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 ?><!DOCTYPE html>
 <html lang="en">
 <head>
-	<meta charset="utf-8">
-	<title>Welcome to CodeIgniter</title>
+<meta charset="utf-8">
+<title>Welcome to Reactikle</title>
+<link rel="stylesheet" href="/assets/css/style.css">
+<script language="javascript" src="/assets/js/main.js"></script>
 </head>
 <body>
 <canvas id=c></canvas>
